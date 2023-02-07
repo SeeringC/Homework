@@ -1,0 +1,31 @@
+1. Lệnh sẽ gán isA là giá trị true nếu grade >= 90 và grade <= 10
+   Lệnh trên lỗi cú pháp, sửa lại thành: bool isA = (90 <= grade && grade <= 100);
+
+2. Đoạn chương trình ghi ra kết quả 0.
+
+3. Vì giá trị của x * x vẫn thuộc kiểu int mà giới hạn của kiểu int là 2147483647.
+
+4. Biểu thức có giá trị false.
+
+5. Chương trình sẽ báo lỗi đang chia cho 0 nhưng vẫn chạy và không cho ra kết quả gì.
+
+6. int a = 27 * "three";
+  	Chương trình sẽ báo lỗi toán tử không phù hợp với kiểu int và const char.
+   double x;
+   cout << x;
+	Chương trình sẽ báo lỗi biến x chưa được khởi tạo.
+
+7. Output của đoạn code : 0
+			  0.75
+			  0.75
+			  0.75
+
+8. Chương trình sẽ không chạy được và báo lỗi biến arg1 đã được khai báo trước.
+
+9. Chương trình sẽ không bị lỗi và chạy được vì định danh arg1 trong khối lệnh con chỉ tới char arg1.
+
+10. Chương trình sẽ không bị lỗi và chạy được vì định danh arg1 trong khối lệnh con chỉ tới int arg1.
+
+11. Đoạn code sai vì phép toán (5 / 9) sẽ cho ra kết quả kiểu int là 0 nên dòng lệnh chuyển đổi sẽ luôn nhận kết quả là 0.
+
+12. Đoạn code trên cho ra kết quả Here.
